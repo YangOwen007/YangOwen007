@@ -66,14 +66,14 @@ I'm building this GitHub profile into a portfolio that reflects the kind of engi
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YangOwen007&show_icons=true&theme=tokyonight&title_color=58a6ff&icon_color=7ee787&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangOwen007&layout=compact&theme=tokyonight&title_color=58a6ff&icon_color=7ee787&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YangOwen007&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YangOwen007&theme=github_dark" alt="Top languages" />
 </p>
 
 ## Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YangOwen007&bg_color=00000000&color=58a6ff&line=7ee787&point=c9d1d9&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yangowen007&bg_color=00000000&color=58a6ff&line=7ee787&point=c9d1d9&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ## Current Focus

@@ -18,6 +18,24 @@ I'm building this GitHub profile into a portfolio that reflects the kind of engi
 - I want my GitHub to make it easy for recruiters and engineers to quickly understand what I have built and how I think.
 - This summer, I am focused on turning past work into polished public repositories and stronger technical case studies.
 
+## Featured Projects
+
+### [Scrapbook Gift Site](https://github.com/YangOwen007/3-month-gift)
+- Built a static site designed for GitHub Pages with a scrapbook-style visual theme.
+- Implemented custom layout, collage styling, scroll reveals, and parallax motion with `HTML`, `CSS`, and `JavaScript`.
+- Focused on presentation, interaction design, and turning a personal concept into a polished public-facing project.
+
+### [CSE 29 Animation Playground](https://github.com/YangOwen007/cse29-fun)
+- Built a lightweight course project exploring page styling and scroll-triggered animations.
+- Used `Markdown`, `CSS`, and browser-side scripting patterns to prototype animated content behavior.
+- Practiced front-end experimentation, iteration, and basic interaction design.
+
+## Summer 2026 Build Queue
+
+- `Internship tracker`: a full-stack app for managing applications, notes, deadlines, and progress analytics.
+- `Data dashboard`: a project focused on collecting, cleaning, and visualizing real-world data.
+- `Deployable service`: a backend-first project that will emphasize APIs, Docker, CI/CD, and production readiness.
+
 ## Featured Experience
 
 ### Nonprofit Grant Chatbot
@@ -78,6 +96,6 @@ I'm building this GitHub profile into a portfolio that reflects the kind of engi
 
 ## Current Focus
 
-- Build 2-3 standout public repositories that are strong enough for internship applications.
-- Improve README quality, setup clarity, and presentation across future projects.
-- Keep growing at the intersection of software engineering and AI.
+- Build internship-ready repositories that demonstrate full-stack development, data work, and production-minded engineering.
+- Improve README quality, setup clarity, and presentation across each public project.
+- Keep growing at the intersection of software engineering and AI while learning through hands-on builds.

@@ -42,8 +42,6 @@ Metro housing metrics dashboard with relational storage for time-series observat
 - **Nonprofit grant NLP tool (team lead of 5)** — LocalLiftLab grant-recommendation pipeline; owned client updates and demos.
 - **RL robotic walker** — Unity / simulation capstone teaching a walker policy before a physical model stepped.
 
-Personal gift repos (`3-month-gift`, `4-Month-Gift`, `5-Month-Gift`) and `cse29-fun` stay on the account but are not the internship pitch.
-
 ## Coursework
 
 CSE 11 · CSE 12 · CSE 20 · CSE 25 · CSE 29 · MATH 18 · MATH 20B · MATH 20C

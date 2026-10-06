@@ -61,5 +61,5 @@ CSE 11 · CSE 12 · CSE 20 · CSE 25 · CSE 29 · MATH 18 · MATH 20B · MATH 20
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YangOwen007&bg_color=00000000&color=58a6ff&line=7ee787&point=c9d1d9&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YangOwen007&theme=github_dark" alt="Contribution graph" />
 </p>
